@@ -1,0 +1,28 @@
+body{
+	background-color:black;
+}
+
+a:link {
+  color: hotpink;
+}
+a:visited {
+  color:pink;
+}
+a:hover {
+  color: lightpink;
+}
+a:active {
+  color: lightblue;
+}
+
+h1{
+  font-family: Arial, Times, serif;
+}
+
+a:link, a:visited {
+  background-color: pink;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;}
